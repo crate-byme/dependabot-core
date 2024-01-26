@@ -61,7 +61,7 @@ PATH
   specs:
     dependabot-git_submodules (0.242.1)
       dependabot-common (= 0.242.1)
-      parseconfig (~> 1.0, < 1.1.0)
+      parseconfig (~> 1.0, < 1.2.0)
 
 PATH
   remote: ../github_actions
@@ -261,7 +261,7 @@ GEM
     parallel (1.23.0)
     parallel_tests (4.4.0)
       parallel
-    parseconfig (1.0.8)
+    parseconfig (1.1.2)
     parser (3.2.2.4)
       ast (~> 2.4.1)
       racc
